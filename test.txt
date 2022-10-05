@@ -1,0 +1,1 @@
+C:\Users\user\intro_dev\programming-intro-lab-13-aylinsanmartin\scripts\02-seedCitiesTables.sql
