@@ -1,1 +1,2 @@
-C:\Users\user\intro_dev\programming-intro-lab-13-aylinsanmartin\scripts\02-seedCitiesTables.sql
+C:/Users/user/intro_dev/programming-intro-lab-13-aylinsanmartin/data/ciudades.csv
+C:/Users/user/intro_dev/programming-intro-lab-13-aylinsanmartin/03-selectNamePopulation.sql
